@@ -1,4 +1,5 @@
 # Story-Generator-using-Python
+# 🚀🔍📅⏳💪😄🎉✨🌈💖🎈✨🏆
 # How to build a Random Story Generator using Python?
 In this section, we are going to make a very interesting beginner-level project of Python. It is a random story generator. The random story generator project aims to generate random stories every time user executes the code. A story is made up of a collection of sentences. We will choose random phrases to build sentences, and hence stories. 
 
